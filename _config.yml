@@ -8,9 +8,9 @@ gems:                [jekyll-paginate]
 # Setup
 title:               Lingfeng Bao
 tagline:             'Zhejiang University'
-description:         "Bao Lingfeng<br/> College of Computer Science and Technology, Zhejiang University<br/>PostDoc"
+description:         "College of Computer Science and Technology, Zhejiang University<br/>PostDoc"
 url:                 http://baolingfeng.github.io
-baseurl:             ''
+baseurl:             /
 paginate:            5
 paginate_path:       "/blog/page:num/"
 # About/contact
