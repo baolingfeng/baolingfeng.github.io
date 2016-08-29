@@ -2,7 +2,7 @@
 layout: post
 title: Accessibility Survey 
 ---
-<img src="{{ site.baseurl }}/assets/survey.png">
+<img src="{{ site.baseurl }}assets/survey.png">
 
 We investigated accessibility support of three kinds of commonly used applications on three popular desktop operating systems, including Windows 7, Linux (Ubuntu 14.04) and Mac OS X (10.8.5). Each operating system has an accessibility inspect tool to help us look into software applications, such as inspect on Windows, Accerciser Accessibility Explorer on Ubuntu, and Accessibility Inspector on Mac OS X. The there kinds of applications are: web browser (Chrome, Firefox, Internet Explorer (IE), Safari), IDE (Eclipse, Visual Studio, Xcode, Matlab), and document reader/editor (Office Word, Office Excel), Adobe Reader, Text Editor (Notepad on Windows, gedit on Ubuntu, and TextEdit on Mac OS X)). We examined different UI Components of these applications, including title bar, menu bar, tool bar, context menu, and main content components. Different applications have different UI components. For example, web browser usually has navigation bar, bookmark bar, and web page pane. IDE usually has many views and code editors.
 
