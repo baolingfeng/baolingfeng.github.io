@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VT-Revolution - NASAC2016原型系统 
+title: VT-Revolution原型系统 - NASAC2016 
 ---
 
 ## VT-Revolution: 交互式编程视频教程制作与观看系统 <a href="{{ site.baseurl }}assets/nasac.docx">[doc]</a>
