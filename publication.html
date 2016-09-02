@@ -3,12 +3,14 @@ layout: page
 title: Publications
 ---
 
-{% assign len = site.data.journals | size  %} 
+{% assign len = site.data.journals | size | plus : 1  %} 
 <h2>Journal</h2>
 {% for journal in site.data.journals %}
+{% assign idx = forloop.index %}
+{% assign idx = len | minus: forloop.index %}
 <div class="panel panel-default">
     <div class="panel-heading">
-        {{forloop.index}}. &nbsp;
+        {{idx}}. &nbsp;
         <span class="pull-left pull-left">{{ journal.title }}</span>
         <span class="pull-right"> <a href="{{ site.baseurl }}{{ journal.pdf }}"><b>[PDF]</b></a></span>
         
@@ -26,10 +28,11 @@ title: Publications
 {% endfor %}
 
 
-{% assign len = site.data.conferences | size  %} 
+{% assign len = site.data.conferences | size | plus : 1  %} 
 <h2>Conference</h2>
 {% for paper in site.data.conferences %}
 {% assign idx = forloop.index %}
+{% assign idx = len | minus: forloop.index %}
 <div class="panel panel-default">
     <div class="panel-heading">
         
