@@ -1,0 +1,56 @@
+---
+layout: page
+title: Publications
+---
+
+{% assign len = site.data.journals | size  %} 
+<h2>Journal</h2>
+{% for journal in site.data.journals %}
+<div class="panel panel-default">
+    <div class="panel-heading">
+        {{forloop.index}}. &nbsp;
+        <span class="pull-left pull-left">{{ journal.title }}</span>
+        <span class="pull-right"> <a href="{{ site.baseurl }}{{ journal.pdf }}"><b>[PDF]</b></a></span>
+        
+    </div>
+    <div class="panel-body">       
+        {{ journal.authors }}       
+        <br>               
+        {{ journal.venue }}, {{ journal.year }}
+        {% if journal.status%}
+            ,{{ journal.status }}
+        {% endif %}
+    </div>
+    <p></p>
+</div>
+{% endfor %}
+
+
+{% assign len = site.data.conferences | size  %} 
+<h2>Conference</h2>
+{% for paper in site.data.conferences %}
+{% assign idx = forloop.index %}
+<div class="panel panel-default">
+    <div class="panel-heading">
+        
+        {{idx}}. &nbsp;
+        <span class="pull-left pull-left">{{ paper.title }}</span>
+        <span class="pull-right"> <a href="{{ site.baseurl }}{{ paper.pdf }}"><b>[PDF]</b></a></span>
+        
+    </div>
+    <div class="panel-body">       
+        {{ paper.authors }}       
+        <br>               
+        {{ paper.venue }}, {{ paper.year }}
+        {% if paper.status%}
+            ,{{ paper.status }}
+        {% endif %}
+        {% if paper.remark%}
+            <br><span style="font-style: italic;">{{ paper.remark }}</span>
+        {% endif %}
+    </div>
+    <p></p>
+</div>
+
+
+{% endfor %}

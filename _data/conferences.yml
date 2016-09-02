@@ -1,0 +1,70 @@
+- title: What Permissions Should This App Request?
+  authors: Lingfeng Bao, David Lo, Xin Xia, Shanping Li.
+  venue: The Annual Conference on Software Analysis, Testing and Evolution (SATE)
+  pdf: assets/SATE2016.pdf
+  year: 2016
+  status: accepted
+
+- title: Combining Word Embedding with Information Retrieval to Recommend Similar Bug Reports
+  authors: Xinli Yang, David Lo, Xin Xia, Lingfeng Bao and Jianling Sun
+  venue: 27th International Symposium on Software Reliability Engineering (ISSRE)
+  pdf: assets/ISSRE2016.pdf
+  year: 2016
+  status: accepted
+
+- title: '"Automated Debugging Considered Harmful" Considered Harmful -- A User Study Revisiting the Usefulness of Spectra-Based Fault Localization Techniques with Professionals using Real Bugs from Large Systems'
+  authors: Xin Xia, Lingfeng Bao, David Lo, Shanping Li
+  venue: 32nd International Conference on Software Maintenance and Evolution (ICSME)
+  pdf: assets/ICSMEmain.pdf
+  year: 2016
+  status: accepted
+  remark: joint first author
+
+- title: How Android App Developers Manage Power Consumption? – An Empirical Study by Mining Power Management Commits
+  authors: Lingfeng Bao, David Lo, Xin Xia, Xinyu Wang, Cong Tian
+  venue: 13th International Conference on Mining Software Repositories (MSR)
+  pdf: assets/ICSE16-MSR-63.pdf
+  year: 2016
+  status: accepted
+
+- title: "Tracking and Analyzing Cross-Cutting Activities in Developers’ Daily Work"
+  authors: Lingfeng Bao, Zhenchang Xing, Xinyu Wang, and Bo Zhou
+  venue: 30th IEEE/ACM International Conference on Automated Software Engineering(ASE), new idea paper
+  pdf: assets/ASE2015newidea.pdf
+  year: 2016
+  status: accepted
+
+- title: "ActivitySpace: An Interapplication Remembrance Agent for Integrated Knowledge Work"
+  authors: Lingfeng Bao,  Decheng Ye, Zhenchang Xing,  Xin Xia,   Xinyu Wang
+  venue: 30th IEEE/ACM International Conference on Automated Software Engineering(ASE), Demonstration
+  pdf: assets/ASE2015Demo.pdf
+  year: 2016
+  status: accepted
+
+- title: "scvRipper: Video Scraping Tool for Modeling Developers’ Behavior Using Interaction Data"
+  authors: Lingfeng Bao, Jing Li, Zhenchang Xing, Xinyu Wang, and Bo Zhou
+  venue: 37th International Conference on Software Engineering (ICSE), Demonstration
+  pdf: assets/ICSE2015Demo.pdf
+  year: 2015
+  status: accepted
+
+- title: Reverse Engineering Time-Series Interaction Data from Screen-Captured Videos
+  authors: Lingfeng Bao, Jing Li, Zhenchang Xing, Xinyu Wang, and Bo Zhou
+  venue: 22nd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)
+  pdf: assets/SANER2015Bao.pdf
+  year: 2015
+  status: accepted
+
+- title: "amAssist: In-IDE Ambient Search of Online Programming Resources"
+  authors: Hongwei Li, Xuejiao Zhao, Zhenchang Xing, Lingfeng Bao, Xin Peng, Dongjing Gao, Wenyun Zhao
+  venue: 22nd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)
+  pdf: assets/SANER2015Li.pdf
+  year: 2015
+  status: accepted
+
+- title: "BPMiner: Mining Developers’ Behavior Patterns from Screen-Captured Task Videos"
+  authors: Jing Li, Lingfeng Bao, Zhenchang Xing, Xinyu Wang and Bo Zhou
+  venue: The 31st ACM Symposium on Applied Computing (SAC)
+  pdf: assets/SAC2016.pdf
+  year: 2016
+  status: accepted
