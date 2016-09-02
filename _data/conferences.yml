@@ -31,14 +31,14 @@
   authors: Lingfeng Bao, Zhenchang Xing, Xinyu Wang, and Bo Zhou
   venue: 30th IEEE/ACM International Conference on Automated Software Engineering(ASE), new idea paper
   pdf: assets/ASE2015newidea.pdf
-  year: 2016
+  year: 2015
   status: accepted
 
 - title: "ActivitySpace: An Interapplication Remembrance Agent for Integrated Knowledge Work"
   authors: Lingfeng Bao,  Decheng Ye, Zhenchang Xing,  Xin Xia,   Xinyu Wang
   venue: 30th IEEE/ACM International Conference on Automated Software Engineering(ASE), Demonstration
   pdf: assets/ASE2015Demo.pdf
-  year: 2016
+  year: 2015
   status: accepted
 
 - title: "scvRipper: Video Scraping Tool for Modeling Developers’ Behavior Using Interaction Data"
