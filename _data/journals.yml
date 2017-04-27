@@ -1,6 +1,21 @@
+- title: What Do Developers Search For on the Web?
+  authors: Xin Xia, Lingfeng Bao, David Lo, Pavneet Singh Kochhar, Ahmed E. Hassan, Zhenchang Xing
+  venue: Empirical Software Engineering (EMSE)
+  pdf: assets/EMSESearch.pdf
+  year: 2017
+  status: accepted
+  remark: Corresponding author
+
+- title: Automated Android App Permission Recommendation
+  authors: Lingfeng Bao, David Lo, Xin Xia, Shanping Li
+  venue: SCIENCE CHINA Information Sciences (SCIS)
+  pdf: assets/scis_paper.pdf
+  year: 2017
+  status: accepted
+
 - title: Extracting and Analyzing Time-Series HCI Data from Screen-Captured Task Videos
   authors: Lingfeng Bao, Jing Li, Zhenchang Xing, Xinyu Wang, Xin Xia, Bo Zhou
   venue: Empirical Software Engineering (EMSE)
   pdf: assets/EMSE.pdf
   year: 2016
-  status: 
+  status: accepted
