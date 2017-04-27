@@ -1,3 +1,10 @@
+- title: Who Will Leave the Company? - A Large-Scale Industry Study of Developer Turnover by Mining Monthly Work Report
+  authors: Lingfeng Bao, Zhenchang Xing, Xin Xia, David Lo, Shanping Li
+  venue: 14th International Conference on Mining Software Repositories (MSR)
+  pdf: assets/MSR2017.pdf
+  year: 2017
+  status: accepted
+
 - title: What Permissions Should This App Request?
   authors: Lingfeng Bao, David Lo, Xin Xia, Shanping Li.
   venue: The Annual Conference on Software Analysis, Testing and Evolution (SATE)
