@@ -22,6 +22,9 @@ title: Publications
         {% if journal.status%}
             ,{{ journal.status }}
         {% endif %}
+        {% if paper.remark%}
+            <br><span style="font-style: italic;">{{ paper.remark }}</span>
+        {% endif %}
     </div>
     <p></p>
 </div>
