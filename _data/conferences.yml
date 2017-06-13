@@ -1,3 +1,11 @@
+- title: Personality and Project Success: Insights from a Large-Scale Study with Professionals
+  authors: Xin Xia, David Lo, Lingfeng Bao, Abhishek Sharma,  Shanping Li
+  venue: 33nd International Conference on Software Maintenance and Evolution (ICSME)
+  pdf: assets/ICSME2017.pdf
+  year: 2017
+  status: accepted
+  remark: corresponding author
+
 - title: Who Will Leave the Company? - A Large-Scale Industry Study of Developer Turnover by Mining Monthly Work Report
   authors: Lingfeng Bao, Zhenchang Xing, Xin Xia, David Lo, Shanping Li
   venue: 14th International Conference on Mining Software Repositories (MSR)
