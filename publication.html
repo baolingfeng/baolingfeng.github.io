@@ -12,8 +12,9 @@ title: Publications
     <div class="panel-heading">
         {{idx}}. &nbsp;
         <span class="pull-left pull-left">{{ journal.title }}</span>
+        {% if journal.pdf%}
         <span class="pull-right"> <a href="{{ site.baseurl }}{{ journal.pdf }}"><b>[PDF]</b></a></span>
-        
+        {% endif %}
     </div>
     <div class="panel-body">       
         {{ journal.authors }}       
@@ -22,8 +23,8 @@ title: Publications
         {% if journal.status%}
             ,{{ journal.status }}
         {% endif %}
-        {% if paper.remark%}
-            <br><span style="font-style: italic;">{{ paper.remark }}</span>
+        {% if journal.remark%}
+            <br><span style="font-style: italic;">{{ journal.remark }}</span>
         {% endif %}
     </div>
     <p></p>
