@@ -2,12 +2,14 @@
   authors: <b>Lingfeng Bao</b>, Zhenchang Xing, Xin Xia, David Lo. 
   venue: IEEE Transactions on Software Engineering (TSE)
   year: 2018
+  pdf: papers/TSE-VTRevolution.pdf
   status: accepted
 
 - title: "APIReal: An API Recognition and Linking Approach for Online Developer Forums"
   authors: Deheng Ye, <b>Lingfeng Bao</b>, Zhenchang Xing, Shang-Wei Lin
   venue: Empirical Software Engineering (EMSE)
   year: 2018
+  pdf: papers/EMSE-APIReal.pdf
   status: accepted
   remark: Corresponding author
   
