@@ -1,11 +1,11 @@
 - title: "Using Finite-State Models for Log Differencing"
-  authors: Hen Amar, <b>Lingfeng Bao<b>, Nimrod Busany, Shahar Maoz, David Lo
+  authors: Hen Amar, <b>Lingfeng Bao</b>, Nimrod Busany, Shahar Maoz, David Lo
   venue: The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)
   year: 2018
   status: accepted
 
 - title: "Mining Sandboxes: Are We There Yet?"
-  authors: <b>Lingfeng Bao<b>, Tien-Duy B. Le, David Lo
+  authors: <b>Lingfeng Bao</b>, Tien-Duy B. Le, David Lo
   venue: 25th IEEE Internation Conferance on Software Analysis, Evolution and Reengineering (SANER)
   pdf: papers/SANER2018.pdf
   year: 2018
