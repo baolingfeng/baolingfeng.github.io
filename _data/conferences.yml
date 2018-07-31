@@ -2,7 +2,6 @@
   authors: Tien-Duy B. Le, <b>Lingfeng Bao</b>, David Lo
   venue: The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), Demonstration
   year: 2018
-  pdf: papers/FSE2018.pdf
   status: accepted
 
 - title: "VT-Revolution: Interactive Programming Tutorials Made Possible "
@@ -15,6 +14,7 @@
   authors: Hen Amar, <b>Lingfeng Bao</b>, Nimrod Busany, Shahar Maoz, David Lo
   venue: The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)
   year: 2018
+  pdf: papers/FSE2018.pdf
   status: accepted
 
 - title: "Mining Sandboxes: Are We There Yet?"
