@@ -8,6 +8,7 @@
   authors: <b>Lingfeng Bao</b>, Zhenchang Xing, Xin Xia, David Lo, Shanping Li
   venue: The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), Demonstration
   year: 2018
+  pdf: papers/FSE2018Demo.pdf
   status: accepted
 
 - title: "Using Finite-State Models for Log Differencing"
