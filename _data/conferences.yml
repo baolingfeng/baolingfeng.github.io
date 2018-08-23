@@ -24,6 +24,13 @@
   pdf: papers/FSE2018.pdf
   status: accepted
 
+- title: "Characterizing Common and Domain-Specific Package Bugs: A Case Study on Ubuntu"
+  authors: Xiaoxue Ren, Qiao Huang, Xin Xia, Zhenchang Xing, <b>Lingfeng Bao</b>, David Lo
+  venue: The 41st Annual International Computers, Software & Applications Conference (COMPSAC 2018)
+  pdf: papers/compsac182.pdf
+  year: 2018
+  status: accepted as a short paper
+
 - title: "Mining Sandboxes: Are We There Yet?"
   authors: <b>Lingfeng Bao</b>, Tien-Duy B. Le, David Lo
   venue: 25th IEEE Internation Conferance on Software Analysis, Evolution and Reengineering (SANER)
