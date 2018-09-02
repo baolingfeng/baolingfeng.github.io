@@ -37,7 +37,7 @@ permalink: /publications/
                 (<span class="project-tagline"><b>{{ paper.remark }}</b></span>)
             {% endif %}
             {% if paper.pdf%}
-            <span class="pull-right"> <a href="{{ site.baseurl }}{{ paper.pdf }}"><b>[PDF]</b></a></span>
+            <span class="pull-right"> <a href="{{ site.url }}/{{ paper.pdf }}"><b>[PDF]</b></a></span>
             {% endif %}
     </div>
     {% endfor %}
