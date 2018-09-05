@@ -1,8 +1,15 @@
+- title: "Categorizing and Predicting Invalid Vulnerabilities on Common Vulnerabilities and Exposures"
+  authors: Qiuyuan Chen, <b>Lingfeng Bao</b>, Li Li, Xin Xia, Liang Cai
+  venue: The 25th Asia-Pacific Software Engineering Conference (APSEC)
+  year: 2018
+  status: accepted
+
 - title: "Towards Mining Comprehensive Android Sandboxes"
   authors: Tien-Duy B. Le, <b>Lingfeng Bao</b>, David Lo, Debin Gao, Li Li
   venue: The 23rd International Conference on Engineering of Complex Computer Systems (ICECCS)
   year: 2018
   status: accepted
+  remark: joint first author
 
 - title: "DSM: A Specification Mining Tool using Recurrent Neural Network Based Language Model"
   authors: Tien-Duy B. Le, <b>Lingfeng Bao</b>, David Lo
