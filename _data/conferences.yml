@@ -4,6 +4,11 @@
   year: 2019
   status: accepted
 
+- title: "Categorizing and Predicting Invalid Vulnerabilities on Common Vulnerabilities and Exposures"
+  authors: Qiuyuan Chen, <b>Lingfeng Bao</b>, Li Li, Xin Xia, Liang Cai
+  venue: The 25th Asia-Pacific Software Engineering Conference (APSEC)
+  year: 2018
+
 - title: "A Smart Context-aware Program Assistant based on Dynamic Programming Event Modeling"
   authors: Xuejiao Zhao, Hongwei Li, Yutian Tang, Dongjing Gao, <b>Lingfeng Bao</b>, Ching Hung Lee
   venue: The 29th IEEE International Symposium on Software Reliability Engineering (ISSRE), Industry Track
