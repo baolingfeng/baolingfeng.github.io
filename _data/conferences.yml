@@ -1,7 +1,7 @@
-- title: "Categorizing and Predicting Invalid Vulnerabilities on Common Vulnerabilities and Exposures"
-  authors: Qiuyuan Chen, <b>Lingfeng Bao</b>, Li Li, Xin Xia, Liang Cai
-  venue: The 25th Asia-Pacific Software Engineering Conference (APSEC)
-  year: 2018
+- title: "On Reliability of Patch Correctness Assessment"
+  authors: Xuan Bach D. Le, <b>Lingfeng Bao</b>, David Lo, Xin Xia, Shanping Li, Corina Pasareanu
+  venue: 41st ACM/IEEE International Conference on Software Engineering （ICSE 2019)
+  year: 2019
   status: accepted
 
 - title: "A Smart Context-aware Program Assistant based on Dynamic Programming Event Modeling"
