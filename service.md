@@ -25,8 +25,14 @@ permalink: /service/
     <div class="item">
        Journal referee -- Journal of Systems and Software
     </div>
-
-
+   
+    <div class="intro">
+       <p class="section-title">2018</p>
+    </div><!--//intro-->
+    <div class="item">
+       Program Committee -- 15th Working Conference on Mining Software Repositories  (MSR 2018 Mining Challenge Track)
+    </div>
+	
     <div class="intro">
         <p class="section-title">2017</p>
     </div><!--//intro-->
