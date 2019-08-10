@@ -25,6 +25,12 @@ permalink: /service/
     <div class="item">
        Journal referee -- Journal of Systems and Software
     </div>
+    <div class="item">
+       Journal referee -- IEEE Access
+    </div>
+    <div class="item">
+       Journal referee -- IEEE Transactions on Reliability
+    </div>
    
     <div class="intro">
        <p class="section-title">2018</p>
