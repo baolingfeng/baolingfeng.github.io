@@ -1,3 +1,15 @@
+- title: "psc2code: Denoising Code Extraction from Programming Screencasts"
+  authors: <b>Lingfeng Bao</b>, Zhenchang Xing, Xin Xia, David Lo, Minghui Wu, Xiaohu Yang. 
+  venue: ACM Transactions on Software Engineering and Methodology (TOSEM)
+  year: 2020
+  status: accepted
+
+- title: "A Large Scale Study of Long-Time Contributor Prediction for GitHub Projects"
+  authors: <b>Lingfeng Bao</b>, Xin Xia, David Lo, Gail Murphy. 
+  venue: IEEE Transactions on Software Engineering (TSE)
+  year: 2019
+  status: accepted
+
 - title: "VT-Revolution: Interactive Programming Video Tutorial Authoring and Watching System"
   authors: <b>Lingfeng Bao</b>, Zhenchang Xing, Xin Xia, David Lo. 
   venue: IEEE Transactions on Software Engineering (TSE)
