@@ -1,5 +1,11 @@
+- title: "How does Working from Home Affect Developer Productivity? – A Case Study of Baidu During the COVID-19 Pandemic"
+  authors: <b>Lingfeng Bao</b>, Tao Li, Xin Xia, Kaiyu Zhu, Hui Li, Xiaohu Yang 
+  venue: Science China Information Sciences (SCIS)
+  year: 2021
+  status: accepted
+
 - title: "psc2code: Denoising Code Extraction from Programming Screencasts"
-  authors: <b>Lingfeng Bao</b>, Zhenchang Xing, Xin Xia, David Lo, Minghui Wu, Xiaohu Yang. 
+  authors: <b>Lingfeng Bao</b>, Zhenchang Xing, Xin Xia, David Lo, Minghui Wu, Xiaohu Yang 
   venue: ACM Transactions on Software Engineering and Methodology (TOSEM)
   year: 2020
   status: accepted
