@@ -3,7 +3,7 @@
         {
             "idx": "C28",
             "title": "VCMatch: A Ranking-based Approach for Automatic Security Patches Localization for OSS Vulnerabilities",
-            "authors": "Shichao Wang, Yun Zhang, Lingfeng Bao, Xin Xia, Minghui Wu",
+            "authors": "Shichao Wang, Yun Zhang, <b>Lingfeng Bao</b>, Xin Xia, Minghui Wu",
             "venue": "29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022)",
             "status": "Conditionally Accepted as a Full Paper"
         },
@@ -17,7 +17,7 @@
         {
             "idx": "C26",
             "title": "V-SZZ: Automatic Identification of Version Ranges Affected by CVE Vulnerabilities",
-            "authors": "Lingfeng Bao, Xin Xia, Ahmed E. Hassan, Xiaohu Yang",
+            "authors": "<b>Lingfeng Bao</b>, Xin Xia, Ahmed E. Hassan, Xiaohu Yang",
             "venue": "44th ACM/IEEE International Conference on Software Engineering (ICSE 2022)",
             "status": "Accepted as a Full Paper"
         }
