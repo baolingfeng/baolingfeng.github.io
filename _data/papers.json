@@ -1,5 +1,51 @@
 {
+    "2022": [
+        {
+            "idx": "C28",
+            "title": "VCMatch: A Ranking-based Approach for Automatic Security Patches Localization for OSS Vulnerabilities",
+            "authors": "Shichao Wang, Yun Zhang, Lingfeng Bao, Xin Xia, Minghui Wu",
+            "venue": "29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022)",
+            "status": "Conditionally Accepted as a Full Paper"
+        },
+        {
+            "idx": "C27",
+            "title": "Recommending Code Reviewers for Proprietary Software Projects: A Large Scale Study",
+            "authors": "Dezhen Kong, Qiuyuan Chen, <b>Lingfeng Bao</b>, Chenxing Sun, Xin Xia, Shanping Li",
+            "venue": "29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022)",
+            "status": "Accepted"
+        },
+        {
+            "idx": "C26",
+            "title": "V-SZZ: Automatic Identification of Version Ranges Affected by CVE Vulnerabilities",
+            "authors": "Lingfeng Bao, Xin Xia, Ahmed E. Hassan, Xiaohu Yang",
+            "venue": "44th ACM/IEEE International Conference on Software Engineering (ICSE 2022)",
+            "status": "Accepted as a Full Paper"
+        }
+    ],
+    "2021": [
+        {
+            "idx": "J10",
+            "title": "How does Working from Home Affect Developer Productivity? – A Case Study of Baidu During the COVID-19 Pandemic",
+            "authors": "<b>Lingfeng Bao</b>, Tao Li, Xin Xia, Kaiyu Zhu, Hui Li, Xiaohu Yang",
+            "venue": "Science China Information Sciences (SCIS)",
+            "status": "Accepted"
+        },
+        {
+            "idx": "C25",
+            "title": "Automating Developer Chat Mining",
+            "authors": "Shengyi Pan, <b>Lingfeng Bao</b>, Xiaoxue Ren, Xin Xia, David Lo, Shanping Li",
+            "venue": "36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021)",
+            "status": "Accepted as a Full Paper"
+        }
+    ],
     "2020": [
+        {
+            "idx": "C24",
+            "title": "Enhancing Developer Interactions with Programming Screencasts through Accurate Code Extraction",
+            "authors": "<b>Lingfeng Bao</b>, Shengyi Pan, Zhenchang Xing, Xin Xia, David Lo, Xiaohu Yang",
+            "venue": "28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2020)",
+            "status": "Accepted as a Demonstration Paper"
+        },
         {
             "idx": "J9",
             "title": "psc2code: Denoising Code Extraction from Programming Screencasts",
