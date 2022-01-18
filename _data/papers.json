@@ -1,11 +1,18 @@
 {
     "2022": [
+         {
+            "idx": "C29",
+            "title": "Code Reviewer Recommendation in Tencent: Practice, Challenge, and Direction",
+            "authors": "Qiuyuan Chen, Dezhen Kong, <b>Lingfeng Bao</b>, Chenxing Sun, Xin Xia, Shanping Li",
+            "venue": "44th ACM/IEEE International Conference on Software Engineering （ICSE 2022)",
+            "status": "Accepted as a SEIP Track Full Paper"
+        },
         {
             "idx": "C28",
             "title": "VCMatch: A Ranking-based Approach for Automatic Security Patches Localization for OSS Vulnerabilities",
             "authors": "Shichao Wang, Yun Zhang, <b>Lingfeng Bao</b>, Xin Xia, Minghui Wu",
             "venue": "29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022)",
-            "status": "Conditionally Accepted as a Full Paper"
+            "status": "Accepted as a Full Paper"
         },
         {
             "idx": "C27",
