@@ -1,17 +1,17 @@
 - title: "Code Reviewer Recommendation in Tencent: Practice, Challenge, and Direction"
-  authors: Qiuyuan Chen, Dezhen Kong, Lingfeng Bao, Chenxing Sun, Xin Xia, Shanping Li
-  venue: 44th ACM/IEEE International Conference on Software Engineering (ICSE 2022), SEIP 
+  authors: Qiuyuan Chen, Dezhen Kong, <b>Lingfeng Bao</b>, Chenxing Sun, Xin Xia, Shanping Li
+  venue: 44th ACM/IEEE International Conference on Software Engineering (ICSE 2022), SEIP Track
   year: 2022
   status: accepted
 
 - title: "V-SZZ: Automatic Identification of Version Ranges Affected by CVE Vulnerabilities"
-  authors: Lingfeng Bao, Xin Xia, Ahmed E. Hassan, Xiaohu Yang
+  authors: <b>Lingfeng Bao</b>, Xin Xia, Ahmed E. Hassan, Xiaohu Yang
   venue: 44th ACM/IEEE International Conference on Software Engineering (ICSE 2022)
   year: 2022
   status: accepted
 
 - title: "VCMatch: A Ranking-based Approach for Automatic Security Patches Localization for OSS Vulnerabilities"
-  authors: Shichao Wang, Yun Zhang, Lingfeng Bao, Xin Xia, Minghui Wu
+  authors: Shichao Wang, Yun Zhang, <b>Lingfeng Bao</b>, Xin Xia, Minghui Wu
   venue: 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022), Conditionally Accepted as a Full Paper
   year: 2022
   status: accepted
