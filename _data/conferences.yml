@@ -9,6 +9,7 @@
   venue: 44th ACM/IEEE International Conference on Software Engineering (ICSE 2022)
   year: 2022
   status: accepted
+  pdf: papers/ICSE2022VSZZ.pdf
 
 - title: "VCMatch: A Ranking-based Approach for Automatic Security Patches Localization for OSS Vulnerabilities"
   authors: Shichao Wang, Yun Zhang, <b>Lingfeng Bao</b>, Xin Xia, Minghui Wu
