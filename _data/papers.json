@@ -26,7 +26,8 @@
             "title": "V-SZZ: Automatic Identification of Version Ranges Affected by CVE Vulnerabilities",
             "authors": "<b>Lingfeng Bao</b>, Xin Xia, Ahmed E. Hassan, Xiaohu Yang",
             "venue": "44th ACM/IEEE International Conference on Software Engineering (ICSE 2022)",
-            "status": "Accepted as a Full Paper"
+            "status": "Accepted as a Full Paper",
+            "pdf": "papers/ICSE2022VSZZ.pdf"
         }
     ],
     "2021": [
