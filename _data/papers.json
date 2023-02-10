@@ -41,7 +41,7 @@
             "authors": "Shichao Wang, Yun Zhang, <b>Lingfeng Bao</b>, Xin Xia, Minghui Wu",
             "venue": "29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022)",
             "status": "Accepted as a Full Paper",
-            "pdf": "papers/SANER2022VCMatch"
+            "pdf": "papers/SANER2022VCMatch.pdf"
         },
         {
             "idx": "C27",
@@ -49,7 +49,7 @@
             "authors": "Dezhen Kong, Qiuyuan Chen, <b>Lingfeng Bao</b>, Chenxing Sun, Xin Xia, Shanping Li",
             "venue": "29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022)",
             "status": "Accepted",
-            "pdf": "papers/SANER2022CR"
+            "pdf": "papers/SANER2022CR.pdf"
         },
         {
             "idx": "C26",
