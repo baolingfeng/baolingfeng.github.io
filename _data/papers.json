@@ -1,25 +1,55 @@
 {
+    "2023": [
+        {
+            "idx": "C32",
+            "title": "Patchmatch: A Tool for Locating Patches of Open Source Project Vulnerabilities",
+            "authors": "Kedi Shen, Yun Zhang, Lingfeng Bao, Zhiyuan Wan, Zhuorong Li, Minghui Wu",
+            "venue": "45th ACM/IEEE International Conference on Software Engineering",
+            "status": "Accepted as a Demonstration Paper"
+        },
+        {
+            "idx": "C31",
+            "title": "Fine-grained Commit-level Vulnerability Type Prediction By CWE Tree Structure",
+            "authors": "Shengyi Pan, Lingfeng Bao, Xin Xia, David Lo, Shanping Li",
+            "venue": "45th ACM/IEEE International Conference on Software Engineering",
+            "status": "Accepted as a Research Full Paper",
+            "remark": "Corresponding Author"
+        }
+    ],
+
     "2022": [
-         {
+        {
+            "idx": "C30",
+            "title": "Automated Unearthing of Dangerous Issue Reports",
+            "authors": "Shengyi Pan, Jiayuan Zhou, Filipe R. Cogo, Xin Xia, <b>Lingfeng Bao</b>, Xing Hu, Shanping Li, Ahmed E. Hassan",
+            "venue": "30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2022)",
+            "status": "Accepted as a Research Full Paper",
+            "pdf": "papers/FSE2022.pdf",
+            "remark": "Corresponding Author"
+        },
+        {
             "idx": "C29",
             "title": "Code Reviewer Recommendation in Tencent: Practice, Challenge, and Direction",
             "authors": "Qiuyuan Chen, Dezhen Kong, <b>Lingfeng Bao</b>, Chenxing Sun, Xin Xia, Shanping Li",
-            "venue": "44th ACM/IEEE International Conference on Software Engineering （ICSE 2022)",
-            "status": "Accepted as a SEIP Track Full Paper"
+            "venue": "44th ACM/IEEE International Conference on Software Engineering (ICSE 2022)",
+            "status": "Accepted as a SEIP Track Full Paper",
+            "pdf": "papers/ICSE2022SEIP.pdf"
         },
         {
             "idx": "C28",
             "title": "VCMatch: A Ranking-based Approach for Automatic Security Patches Localization for OSS Vulnerabilities",
             "authors": "Shichao Wang, Yun Zhang, <b>Lingfeng Bao</b>, Xin Xia, Minghui Wu",
             "venue": "29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022)",
-            "status": "Accepted as a Full Paper"
+            "status": "Accepted as a Full Paper",
+            "pdf": "papers/SANER2022VCMatch"
         },
         {
             "idx": "C27",
             "title": "Recommending Code Reviewers for Proprietary Software Projects: A Large Scale Study",
             "authors": "Dezhen Kong, Qiuyuan Chen, <b>Lingfeng Bao</b>, Chenxing Sun, Xin Xia, Shanping Li",
             "venue": "29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022)",
-            "status": "Accepted"
+            "status": "Accepted",
+            "pdf": "papers/SANER2022CR"
         },
         {
             "idx": "C26",
