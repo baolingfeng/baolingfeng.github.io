@@ -3,17 +3,18 @@
         {
             "idx": "C32",
             "title": "Patchmatch: A Tool for Locating Patches of Open Source Project Vulnerabilities",
-            "authors": "Kedi Shen, Yun Zhang, Lingfeng Bao, Zhiyuan Wan, Zhuorong Li, Minghui Wu",
+            "authors": "Kedi Shen, Yun Zhang, <b>Lingfeng Bao</b>, Zhiyuan Wan, Zhuorong Li, Minghui Wu",
             "venue": "45th ACM/IEEE International Conference on Software Engineering",
             "status": "Accepted as a Demonstration Paper"
         },
         {
             "idx": "C31",
             "title": "Fine-grained Commit-level Vulnerability Type Prediction By CWE Tree Structure",
-            "authors": "Shengyi Pan, Lingfeng Bao, Xin Xia, David Lo, Shanping Li",
+            "authors": "Shengyi Pan, <b>Lingfeng Bao</b>, Xin Xia, David Lo, Shanping Li",
             "venue": "45th ACM/IEEE International Conference on Software Engineering",
             "status": "Accepted as a Research Full Paper",
-            "remark": "Corresponding Author"
+            "remark": "Corresponding Author",
+            "pdf": "papers/ICSE2023.pdf",
         }
     ],
 
