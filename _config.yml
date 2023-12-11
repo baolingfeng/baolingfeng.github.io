@@ -4,7 +4,7 @@ email: lingfengbao@zju.edu.cn
 description: ""
   
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://baolingfeng.github.io" # the base hostname & protocol for your site
 twitter_username: baolingfeng
 github_username:  baolingfeng
 
