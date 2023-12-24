@@ -15,28 +15,14 @@ permalink: /publication/
               <br>
               <span class="project-tagline" style="margin-left: 30px">{{ paper.authors }}</span>
               <br>
-              <span style="margin-left: 30px"><em>{{ paper.venue }}</em>, {{paper.status}}
-                  {% if paper.remark%}
-                      (<span class="project-tagline"><b>{{ paper.remark }}</b></span>)
-                  {% endif %}
-                  {% if paper.pdf%}
-                      <span class="pull-right"> <a href="{{ site.url }}/{{ paper.pdf }}"><b>[PDF]</b></a></span>
-                  {% endif %}
-              </span>
+              <span style="margin-left: 30px"><em>{{ paper.venue }}</em>, {{paper.status}}</span>
+              {% if paper.remark%}
+                    (<span class="project-tagline"><b>{{ paper.remark }}</b></span>)
+              {% endif %}
+              {% if paper.pdf%}
+                     <span class="pull-right"> <a href="{{ site.url }}/{{ paper.pdf }}"><b>[PDF]</b></a></span>
+              {% endif %}
               </div>
-    
-            <!--
-            <div class="item">
-            <span class="project-tagline"><b>[{{paper.idx}}]</b> {{ paper.authors }}. "{{ paper.title }}" <em>{{ paper.venue }}</em>, {{paper.status}}</span>
-            
-            {% if paper.remark%}
-                (<span class="project-tagline"><b>{{ paper.remark }}</b></span>)
-            {% endif %}
-            {% if paper.pdf%}
-                <span class="pull-right"> <a href="{{ site.url }}/{{ paper.pdf }}"><b>[PDF]</b></a></span>
-            {% endif %}
-            -->
-            </div>
     {% endfor %}
     <br/>
 {% endfor %}
