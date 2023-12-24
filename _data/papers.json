@@ -1,6 +1,20 @@
 {
     "2024": [
         {
+            "idx": "C39",
+            "title": "Dual Prompt-Based Few-Shot Learning for Automated Vulnerability Patch Localization",
+            "authors": "Junwei Zhang, Xing Hu, <b>Lingfeng Bao</b>, Xin Xia and Shanping Li",
+            "venue": "31th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2024)",
+            "status": "Accepted as a Research Full Paper"
+        },
+        {
+            "idx": "C38",
+            "title": "Sustainability Forecasting for Deep Learning Packages",
+            "authors": "Junxiao Han, Yunkun Wang, Zhongxin Liu, <b>Lingfeng Bao</b>, Jiakun Liu, David Lo and Shuiguang Deng",
+            "venue": "31th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2024)",
+            "status": "Accepted as a Research Full Paper"
+        },
+        {
             "idx": "C37",
             "title": "Robust Auto-Scaling with Probabilistic Workload Forecasting for Cloud Databases",
             "authors": "Haitian Hang, Xiu Tang, Jianling Sun, <b>Lingfeng Bao</b>, David Lo",
