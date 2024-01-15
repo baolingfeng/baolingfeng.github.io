@@ -1,6 +1,13 @@
 {
     "2024": [
         {
+            "idx": "C40",
+            "title": "A Large-Scale Empirical Study of Open Source License Usage: Practices and Challenges",
+            "authors": "Jiaqi Wu, <b>Lingfeng Bao</b>, Xiaohu Yang, Xin Xia, Xing Hu",
+            "venue": "21th IEEE International Conference on Mining Software Repositories (MSR 2024)",
+            "status": "Accepted as a Research Full Paper"
+        },
+        {
             "idx": "C39",
             "title": "Dual Prompt-Based Few-Shot Learning for Automated Vulnerability Patch Localization",
             "authors": "Junwei Zhang, Xing Hu, <b>Lingfeng Bao</b>, Xin Xia and Shanping Li",
