@@ -1,6 +1,20 @@
 {
     "2024": [
         {
+            "idx": "J13",
+            "title": "E-PRedictor: An Approach for Early Prediction of Pull Request Acceptance",
+            "authors": "Kexing Chen, <b>Lingfeng Bao</b>, Xing Hu, Xin Xia, Xiaohu Yang",
+            "venue": "Science China Information Sciences (SCIS)",
+            "status": "Accepted"
+        },
+        {
+            "idx": "J12",
+            "title": "Market manipulation of Cryptocurrencies: Evidence from Social Media and Transaction Data",
+            "authors": "Li Wen, <b>Lingfeng Bao</b>, Jiachi Chen, John Grundy, Xin Xia, Xiaohu Yang",
+            "venue": "ACM Transactions on Internet Technology (TOIT)",
+            "status": "Accepted"
+        },
+        {
             "idx": "C40",
             "title": "A Large-Scale Empirical Study of Open Source License Usage: Practices and Challenges",
             "authors": "Jiaqi Wu, <b>Lingfeng Bao</b>, Xiaohu Yang, Xin Xia, Xing Hu",
