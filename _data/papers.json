@@ -47,7 +47,8 @@
             "title": "Towards More Practical Automation of Vulnerability Assessment",
             "authors": "Shengyi Pan, <b>Lingfeng Bao</b>, Jiayuan Zhou, Xing Hu, Xin Xia, Shanping Li",
             "venue": "46th ACM/IEEE International Conference on Software Engineering (ICSE 2024)",
-            "status": "Accepted as a Research Full Paper"
+            "status": "Accepted as a Research Full Paper", 
+            "pdf": "papers/ICSE24.pdf"
         }
         
     ],
