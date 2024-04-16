@@ -1,6 +1,13 @@
 {
     "2024": [
         {
+            "idx": "C41",
+            "title": "Are Human Rules Necessary? Generating Reusable APIs with CoT Reasoning and In-context Learning",
+            "authors": "Yubo Mai, Zhipeng Gao, Xing Hu, <b>Lingfeng Bao</b>, Yu Liu, Jianling Sun",
+            "venue": "The ACM International Conference on the Foundations of Software Engineering (FSE 2024)",
+            "status": "Accepted as a Research Full Paper"
+        },
+        {
             "idx": "J13",
             "title": "E-PRedictor: An Approach for Early Prediction of Pull Request Acceptance",
             "authors": "Kexing Chen, <b>Lingfeng Bao</b>, Xing Hu, Xin Xia, Xiaohu Yang",
@@ -20,7 +27,7 @@
             "title": "A Large-Scale Empirical Study of Open Source License Usage: Practices and Challenges",
             "authors": "Jiaqi Wu, <b>Lingfeng Bao</b>, Xiaohu Yang, Xin Xia, Xing Hu",
             "venue": "21th IEEE International Conference on Mining Software Repositories (MSR 2024)",
-            "status": "Accepted as a Research Full Paper"
+            "status": "Accepted as a Research Full Paper, <b>ACM SIGSOFT Distinguished Paper Award</b>, <b>MSR 2024 FOSS Impact Award</b>"
         },
         {
             "idx": "C39",
