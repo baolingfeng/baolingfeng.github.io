@@ -21,7 +21,8 @@
             "title": "E-PRedictor: An Approach for Early Prediction of Pull Request Acceptance",
             "authors": "Kexing Chen, <b>Lingfeng Bao</b>, Xing Hu, Xin Xia, Xiaohu Yang",
             "venue": "Science China Information Sciences (SCIS)",
-            "status": "Accepted"
+            "status": "Accepted",
+            "pdf": "papers/scis2024.pdf"
         },
         {
             "idx": "J12",
@@ -36,7 +37,8 @@
             "title": "A Large-Scale Empirical Study of Open Source License Usage: Practices and Challenges",
             "authors": "Jiaqi Wu, <b>Lingfeng Bao</b>, Xiaohu Yang, Xin Xia, Xing Hu",
             "venue": "21th IEEE International Conference on Mining Software Repositories (MSR 2024)",
-            "status": "Accepted as a Research Full Paper, <b>ACM SIGSOFT Distinguished Paper Award</b>, <b>MSR 2024 FOSS Impact Award</b>"
+            "status": "Accepted as a Research Full Paper, <b>ACM SIGSOFT Distinguished Paper Award</b>, <b>MSR 2024 FOSS Impact Award</b>",
+            "pdf": "papers/MSR2024.pdf"
         },
         {
             "idx": "C39",
