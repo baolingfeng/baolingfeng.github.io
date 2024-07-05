@@ -5,14 +5,16 @@
             "title": "Unveil the Mystery of Critical Software Vulnerabilities",
             "authors": "Shengyi Pan, <b>Lingfeng Bao</b>, Jiayuan Zhou, Xing Hu, Xin Xia, Shanping Li",
             "venue": "The ACM International Conference on the Foundations of Software Engineering (FSE 2024)",
-            "status": "Accepted as an Industry Track Paper"
+            "status": "Accepted as an Industry Track Paper",
+            "pdf": "papers/FSE2024Industry.pdf"
         },
         {
             "idx": "C41",
             "title": "Are Human Rules Necessary? Generating Reusable APIs with CoT Reasoning and In-context Learning",
             "authors": "Yubo Mai, Zhipeng Gao, Xing Hu, <b>Lingfeng Bao</b>, Yu Liu, Jianling Sun",
             "venue": "The ACM International Conference on the Foundations of Software Engineering (FSE 2024)",
-            "status": "Accepted as a Research Full Paper"
+            "status": "Accepted as a Research Full Paper",
+            "pdf": "papers/FSE2024.pdf"
         },
         {
             "idx": "J13",
