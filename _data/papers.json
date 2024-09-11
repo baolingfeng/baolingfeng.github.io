@@ -1,6 +1,20 @@
 {
     "2024": [
         {
+          "idx": "J14",
+          "title": "Automating Comment Generation for Smart Contract from Bytecode",
+          "authors": "jianhang Xiang, Zhipeng Gao, <b>Lingfeng Bao</b>, Xing Hu, Jiayuan Chen, Xin Xia",
+          "venue": "ACM Transactions on Software Engineering and Methodology (TOSEM)",
+          "status": "Accepted"
+        },
+        {
+          "idx": "C43",
+          "title": "Instructive Code Retriever: Learn From Large Language Model’s Feedback for Code Intelligence Tasks",
+          "authors": "Jiawei Lu, Haoye Wang, Zhongxin Liu, Keyu Liang, <b>Lingfeng Bao</b>, Xiaohu Yang",
+          "venue": "39th ACM/IEEE International Conference on Automated Software Engineering (ASE 2024)",
+          "status": "Accepted as a Research Full Paper"
+        },
+        {
             "idx": "C42",
             "title": "Unveil the Mystery of Critical Software Vulnerabilities",
             "authors": "Shengyi Pan, <b>Lingfeng Bao</b>, Jiayuan Zhou, Xing Hu, Xin Xia, Shanping Li",
