@@ -111,7 +111,7 @@
             "authors": "Jisheng Wang, <b>Lingfeng Bao</b>, Chao Ni",
             "venue": "the 14th Asia-Pacific Symposium on Internetware (Internetware2023)",
             "status": "Accepted as a Research Full Paper",
-            "pdf": "internetware2023.pdf"
+            "pdf": "papers/internetware2023.pdf"
         },
         {
             "idx": "J11",
@@ -119,7 +119,7 @@
             "authors": "Qi Zhan, Shengyi Pan, Xing Hu, <b>Lingfeng Bao</b>, Xin Xia",
             "venue": "Journal of Software (in Chinese)",
             "status": "Accepted",
-            "pdf": "jos2023.pdf"
+            "pdf": "papers/jos2023.pdf"
         },
         {
             "idx": "C32",
@@ -127,7 +127,7 @@
             "authors": "Kedi Shen, Yun Zhang, <b>Lingfeng Bao</b>, Zhiyuan Wan, Zhuorong Li, Minghui Wu",
             "venue": "45th ACM/IEEE International Conference on Software Engineering",
             "status": "Accepted as a Demonstration Paper",
-            "pdf": "ICSE2023demo.pdf"
+            "pdf": "papers/ICSE2023demo.pdf"
         },
         {
             "idx": "C31",
