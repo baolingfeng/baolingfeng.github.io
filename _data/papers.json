@@ -59,21 +59,24 @@
             "title": "Dual Prompt-Based Few-Shot Learning for Automated Vulnerability Patch Localization",
             "authors": "Junwei Zhang, Xing Hu, <b>Lingfeng Bao</b>, Xin Xia and Shanping Li",
             "venue": "31th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2024)",
-            "status": "Accepted as a Research Full Paper"
+            "status": "Accepted as a Research Full Paper",
+            "pdf": "papers/SANER2024Vul.pdf"
         },
         {
             "idx": "C38",
             "title": "Sustainability Forecasting for Deep Learning Packages",
             "authors": "Junxiao Han, Yunkun Wang, Zhongxin Liu, <b>Lingfeng Bao</b>, Jiakun Liu, David Lo and Shuiguang Deng",
             "venue": "31th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2024)",
-            "status": "Accepted as a Research Full Paper"
+            "status": "Accepted as a Research Full Paper",
+            "pdf": "papers/SANER2024Sus.pdf"
         },
         {
             "idx": "C37",
             "title": "Robust Auto-Scaling with Probabilistic Workload Forecasting for Cloud Databases",
             "authors": "Haitian Hang, Xiu Tang, Jianling Sun, <b>Lingfeng Bao</b>, David Lo",
             "venue": "40th IEEE International Conference on Data Engineering (ICDE 2024)",
-            "status": "Accepted as a Research Full Paper"
+            "status": "Accepted as a Research Full Paper",
+            "pdf": "papers/ICDE2024.pdf"
         },
         {
             "idx": "C36",
@@ -107,21 +110,24 @@
             "title": "An Empirical Study of the Apache Voting Process on Open Source Community Governance",
             "authors": "Jisheng Wang, <b>Lingfeng Bao</b>, Chao Ni",
             "venue": "the 14th Asia-Pacific Symposium on Internetware (Internetware2023)",
-            "status": "Accepted as a Research Full Paper"
+            "status": "Accepted as a Research Full Paper",
+            "pdf": "internetware2023.pdf"
         },
         {
             "idx": "J11",
             "title": "Survey of Open Source Software Vulnerability Awareness",
             "authors": "Qi Zhan, Shengyi Pan, Xing Hu, <b>Lingfeng Bao</b>, Xin Xia",
             "venue": "Journal of Software (in Chinese)",
-            "status": "Accepted"
+            "status": "Accepted",
+            "pdf": "jos2023.pdf"
         },
         {
             "idx": "C32",
             "title": "Patchmatch: A Tool for Locating Patches of Open Source Project Vulnerabilities",
             "authors": "Kedi Shen, Yun Zhang, <b>Lingfeng Bao</b>, Zhiyuan Wan, Zhuorong Li, Minghui Wu",
             "venue": "45th ACM/IEEE International Conference on Software Engineering",
-            "status": "Accepted as a Demonstration Paper"
+            "status": "Accepted as a Demonstration Paper",
+            "pdf": "ICSE2023demo.pdf"
         },
         {
             "idx": "C31",
