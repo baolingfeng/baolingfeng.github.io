@@ -1,6 +1,13 @@
 {
     "2024": [
         {
+          "idx": "J15",
+          "title": "Enhancing Bug-Inducing Commit Identification: A Fine-Grained Semantic Analysis Approach",
+          "authors": "Lingxiao Tang, Chao Ni, Qiao Huang, <b>Lingfeng Bao</b>",
+          "venue": "IEEE Transactions on Software Engineering (TSE)",
+          "status": "Accepted"
+        },
+        {
           "idx": "J14",
           "title": "Automating Comment Generation for Smart Contract from Bytecode",
           "authors": "jianhang Xiang, Zhipeng Gao, <b>Lingfeng Bao</b>, Xing Hu, Jiayuan Chen, Xin Xia",
