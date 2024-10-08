@@ -12,6 +12,7 @@ permalink: /service/
     <li> FSE 2025 </li>
     <li> ICSE 2025 </li>
     <li> MSR 2025 </li>
+    <li> SANER 2025 </li>
     <li> FSE 2024 </li>
     <li> ICSE 2024 SEIS Track </li>
     <li> ASE 2024 </li>
