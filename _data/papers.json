@@ -12,7 +12,8 @@
           "title": "Enhancing Bug-Inducing Commit Identification: A Fine-Grained Semantic Analysis Approach",
           "authors": "Lingxiao Tang, Chao Ni, Qiao Huang, <b>Lingfeng Bao</b>",
           "venue": "IEEE Transactions on Software Engineering (TSE)",
-          "status": "Accepted"
+          "status": "Accepted",
+          "pdf": "papers/TSE-SEMSZZ.pdf"
         },
         {
           "idx": "J14",
