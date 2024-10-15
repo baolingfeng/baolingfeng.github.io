@@ -20,7 +20,8 @@
           "title": "Automating Comment Generation for Smart Contract from Bytecode",
           "authors": "Jianhang Xiang, Zhipeng Gao, <b>Lingfeng Bao</b>, Xing Hu, Jiayuan Chen, Xin Xia",
           "venue": "ACM Transactions on Software Engineering and Methodology (TOSEM)",
-          "status": "Accepted"
+          "status": "Accepted",
+           "pdf": "papers/TOSEM_SM.pdf"
         },
         {
           "idx": "C45",
