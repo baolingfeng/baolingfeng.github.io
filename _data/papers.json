@@ -35,7 +35,8 @@
           "title": "Analyzing and Detecting Toxicities in Developer Online Chatrooms: A Fine-Grained Taxonomy and Automated Detection Approach",
           "authors": "Junyi Tian, <b>Lingfeng Bao</b>, Shengyi Pan, Xing Hu",
           "venue": "31st Asia-Pacific Software Engineering Conference (APSEC 2024)",
-          "status": "Accepted as a Research Full Paper"
+          "status": "Accepted as a Research Full Paper",
+          "pdf": "papers/APSEC2024.pdf"
         },
         {
           "idx": "C43",
