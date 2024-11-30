@@ -5,7 +5,8 @@
           "title": "Towards Better Comprehension of Breaking Changes in NPM Ecosystem",
           "authors": "Dezhen Kong, Jiakun Liu, <b>Lingfeng Bao</b>, David Lo",
           "venue": "ACM Transactions on Software Engineering and Methodology (TOSEM)",
-          "status": "Accepted"
+          "status": "Accepted",
+          "pdf": "papers/TOSEM_BC.pdf"
         },
         {
           "idx": "J15",
