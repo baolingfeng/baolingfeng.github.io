@@ -1,4 +1,27 @@
 {
+    “2025”: [
+      {
+          "idx": "C48",
+          "title": "LLM4SZZ: Enhancing SZZ Algorithm with Context-Enhanced Assessment on Large Language Models",
+          "authors": "Lingxiao Tang, Jiakun Liu, Zhongxin Liu, Xiaohu Yang, Lingfeng Bao",
+          "venue": "The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025) ",
+          "status": "Accepted as a Research Full Paper"
+      },
+      {
+          "idx": "C47",
+          "title": "More Effective JavaScript Breaking Change Detection via Dynamic Object Relation Graph",
+          "authors": "Dezhen Kong, Jiakun Liu, Chao Ni, David Lo, Lingfeng Bao",
+          "venue": "The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025) ",
+          "status": "Accepted as a Research Full Paper"
+      },
+      {
+          "idx": "C46",
+          "title": "A Comprehensive Study of Bug Characteristics on Foundation Language Models",
+          "authors": "Junxiao Han, Guanqi Wang, Jiakun Liu, Lingfeng Bao, Xing Hu, Jinling Wei, Shuiguang Deng",
+          "venue": "The 2nd ACM international conference on AI Foundation Models and Software Engineering (FORGE 2025)",
+          "status": "Accepted as a Research Full Paper"
+      }
+    ],
     "2024": [
         {
           "idx": "J16",
