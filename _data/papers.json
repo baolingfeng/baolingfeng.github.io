@@ -1,6 +1,13 @@
 {
     "2025": [
       {
+          "idx": "C50",
+          "title": "FIRE: Smart Contract Bytecode Function Identification via Graph-Refined Hybrid Feature Encoding",
+          "authors": "Yu Sun, <b>Lingfeng Bao</b>, Xiaohu Yang",
+          "venue": "the 16th Asia-Pacific Symposium on Internetware (Internetware 2025)",
+          "status": "Accepted as a Research Full Paper"
+      },
+      {
           "idx": "C49",
           "title": "Code2API: A Tool for Generating Reusable APIs from Stack Overflow Code Snippets",
           "authors": "Yubo Mai, Zhipeng Gao, Xing Hu, <b>Lingfeng Bao</b>, Jingyuan Chen, Jianling Sun",
