@@ -5,14 +5,16 @@
           "title": "LLM4SZZ: Enhancing SZZ Algorithm with Context-Enhanced Assessment on Large Language Models",
           "authors": "Lingxiao Tang, Jiakun Liu, Zhongxin Liu, Xiaohu Yang, Lingfeng Bao",
           "venue": "The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025) ",
-          "status": "Accepted as a Research Full Paper"
+          "status": "Accepted as a Research Full Paper",
+          "pdf": "papers/ISSTA2025_SZZ"
       },
       {
           "idx": "C47",
           "title": "More Effective JavaScript Breaking Change Detection via Dynamic Object Relation Graph",
           "authors": "Dezhen Kong, Jiakun Liu, Chao Ni, David Lo, Lingfeng Bao",
           "venue": "The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025) ",
-          "status": "Accepted as a Research Full Paper"
+          "status": "Accepted as a Research Full Paper",
+          "pdf": "papers/ISSTA2025_BC"
       },
       {
           "idx": "C46",
