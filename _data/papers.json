@@ -5,7 +5,8 @@
           "title": "FIRE: Smart Contract Bytecode Function Identification via Graph-Refined Hybrid Feature Encoding",
           "authors": "Yu Sun, <b>Lingfeng Bao</b>, Xiaohu Yang",
           "venue": "the 16th Asia-Pacific Symposium on Internetware (Internetware 2025)",
-          "status": "Accepted as a Research Full Paper"
+          "status": "Accepted as a Research Full Paper",
+          "pdf": "papers/FIRE.pdf"
       },
       {
           "idx": "C49",
