@@ -1,6 +1,20 @@
 {
     "2025": [
       {
+          "idx": "C52",
+          "title": "SolContractEval: A Benchmark for Evaluating Contract-level Solidity Code Generation",
+          "authors": "Zhifan Ye, Jiachi Chen, Zhenzhe Shao, <b>Lingfeng Bao</b>, Xiaohu Yang and Zhongxin Liu",
+          "venue": "the 40th ACM/IEEE International Conference on Automated Software Engineering (ASE 2025)",
+          "status": "Accepted as a Research Full Paper"
+      },
+      {
+          "idx": "C51",
+          "title": "FGIT: Fault-guided Fine-tuning for Code Generation",
+          "authors": "Lishui Fan, Zhongxin Liu, Haoye Wang, <b>Lingfeng Bao</b>, Xin Xia, Shanping Li",
+          "venue": "the 40th ACM/IEEE International Conference on Automated Software Engineering (ASE 2025)",
+          "status": "Accepted as a Research Full Paper"
+      },
+      {
           "idx": "C50",
           "title": "FIRE: Smart Contract Bytecode Function Identification via Graph-Refined Hybrid Feature Encoding",
           "authors": "Yu Sun, <b>Lingfeng Bao</b>, Xiaohu Yang",
