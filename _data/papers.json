@@ -1,6 +1,20 @@
 {
     "2025": [
       {
+          "idx": "J17",
+          "title": "Enhancing Domain-Specific Code Completion via Collaborative Inference with Large and Small Language Models",
+          "authors": "Jingrong Yu, Zhipeng Gao, <b>Lingfeng Bao</b>, Zhongxin Liu",
+          "venue": "ACM Transactions on Software Engineering and Methodology (TOSEM)",
+          "status": "Accepted"
+      },
+      {
+          "idx": "C53",
+          "title": "ACTaint: Agent-Based Taint Analysis for Access Control Vulnerabilities in Smart Contracts",
+          "authors": "Huarui Lin, Zhipeng Gao, Jiachi Chen, Xiang Chen, Xiaohu Yang, <b>Lingfeng Bao</b>",
+          "venue": "the 40th ACM/IEEE International Conference on Automated Software Engineering (ASE 2025)",
+          "status": "Accepted as a Research Full Paper"
+      },
+      {
           "idx": "C52",
           "title": "SolContractEval: A Benchmark for Evaluating Contract-level Solidity Code Generation",
           "authors": "Zhifan Ye, Jiachi Chen, Zhenzhe Shao, <b>Lingfeng Bao</b>, Xiaohu Yang and Zhongxin Liu",
