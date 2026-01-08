@@ -1,4 +1,34 @@
 {
+    "2026": [
+      {
+          "idx": "J19",
+          "title": "Delving into History: Retrieve Less but Augment More on Commit Message Generation",
+          "authors": "Peng Lan, Jiakun Liu, Xinyu Zhong, Ning Gui, <b>Lingfeng Bao</b>, David Lo, Zhifang Liao",
+          "venue": "ACM Transactions on Software Engineering and Methodology (TOSEM)",
+          "status": "Accepted"
+      }, 
+      {
+          "idx": "C55",
+          "title": "Lost in Blockchain Address Misuse: Hidden Cross-Platform Risks and Their Security Impact",
+          "authors": "Zhenzhe Shao, Jiashuo Zhang, Zihao Li, Daoyuan Wu, and Chong Chen, Yiming Shen, <b>Lingfeng Bao</b>, Yanlin Wang, Jiachi Chen",
+          "venue": "The 35th USENIX Security Symposium",
+          "status": "Accepted"
+      }, 
+      {
+          "idx": "C54",
+          "title": "Can LLMs Keep Up with Library Changes? An Exploratory Study on LLM-Generated Code",
+          "authors": "Xiangrong Lin, Jiakun Liu, <b>Lingfeng Bao</b>",
+          "venue": "The 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026)",
+          "status": "Accepted as a Research Full Paper"
+      },
+      {
+          "idx": "J18",
+          "title": "RLV: LLM-Based Vulnerability Detection by Retrieving and Refining Contextual Information",
+          "authors": "Fangcheng Qiu, Zhongxin Liu, Bingde Hu, Zhengong Cai, <b>Lingfeng Bao</b>, Xinyu Wang",
+          "venue": "Journal of Systems and Software",
+          "status": "Accepted"
+      }
+    ],
     "2025": [
       {
           "idx": "J17",
