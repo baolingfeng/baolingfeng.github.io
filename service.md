@@ -21,11 +21,18 @@ permalink: /service/
           <span class="years">2025, 2024 SEIS Track</span>
         </div>
       </div>
-      
+            
+      <div class="conference-group">
+        <div class="conference-header">
+          <h3 class="conference-name">ASE</h3>
+          <span class="years">2026, 2025, 2024, 2021, 2020, 2019 Demonstration Track</span>
+        </div>
+      </div>
+
       <div class="conference-group">
         <div class="conference-header">
           <h3 class="conference-name">MSR</h3>
-          <span class="years">2025, 2018 Mining Challenge Track</span>
+          <span class="years">2026, 2025, 2018 Mining Challenge Track</span>
         </div>
       </div>
       
@@ -35,25 +42,18 @@ permalink: /service/
           <span class="years">2025, 2019</span>
         </div>
       </div>
-      
-      <div class="conference-group">
-        <div class="conference-header">
-          <h3 class="conference-name">ASE</h3>
-          <span class="years">2024, 2021, 2020, 2019 Demonstration Track</span>
-        </div>
-      </div>
-      
+
       <div class="conference-group">
         <div class="conference-header">
           <h3 class="conference-name">QRS</h3>
-          <span class="years">2023, 2022, 2021, 2020, 2019</span>
+          <span class="years">2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019</span>
         </div>
       </div>
       
       <div class="conference-group">
         <div class="conference-header">
           <h3 class="conference-name">ICSME</h3>
-          <span class="years">2023 NIER Track, 2020, 2017 Demonstration Track</span>
+          <span class="years">2026, 2023 NIER Track, 2020, 2017 Demonstration Track</span>
         </div>
       </div>
       
@@ -61,6 +61,13 @@ permalink: /service/
         <div class="conference-header">
           <h3 class="conference-name">APSEC</h3>
           <span class="years">2024</span>
+        </div>
+      </div>
+
+      <div class="conference-group">
+        <div class="conference-header">
+          <h3 class="conference-name">FORGE</h3>
+          <span class="years">2026, 2025</span>
         </div>
       </div>
     </div>
