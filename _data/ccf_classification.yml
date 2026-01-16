@@ -1,0 +1,25 @@
+# CCF A类会议/期刊分类
+# 中国计算机学会推荐国际学术会议和期刊目录
+# A类表示最顶级会议/期刊
+
+ccf_a_conferences:
+  - name: "ICSE"
+    full_name: "International Conference on Software Engineering"
+    pattern: "International Conference on Software Engineering"
+  - name: "FSE/ESEC"
+    full_name: "ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering"
+    pattern: "ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering"
+  - name: "ASE"
+    full_name: "IEEE/ACM International Conference on Automated Software Engineering"
+    pattern: "International Conference on Automated Software Engineering"
+  - name: "ISSTA"
+    full_name: "ACM SIGSOFT International Symposium on Software Testing and Analysis"
+    pattern: "International Symposium on Software Testing and Analysis"
+
+ccf_a_journals:
+  - name: "TOSEM"
+    full_name: "ACM Transactions on Software Engineering and Methodology"
+    pattern: "ACM Transactions on Software Engineering and Methodology"
+  - name: "TSE"
+    full_name: "IEEE Transactions on Software Engineering"
+    pattern: "IEEE Transactions on Software Engineering"

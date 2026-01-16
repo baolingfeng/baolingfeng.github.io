@@ -217,4 +217,126 @@ text-decoration: none;
 font-family: 'Capita', Georgia, serif;
 }
 
+/* Service page styles */
+.service-section {
+  margin-bottom: 2rem;
+}
 
+.service-section h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  border-bottom: 2px solid $clemson-purple;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.service-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 0.5rem;
+}
+
+.service-item {
+  padding: 0.5rem 0;
+  border-left: 3px solid $clemson-orange;
+  margin-left: 0.5rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.service-item:hover {
+  transform: translateX(5px);
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.conference-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1rem;
+}
+
+.conference-group {
+  background-color: #f9f9f9;
+  border: 1px solid $grey-color-light;
+  border-radius: 5px;
+  padding: 1rem;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.conference-group:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.conference-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.conference-name {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: $clemson-orange;
+  margin: 0;
+  flex: 1;
+}
+
+.years {
+  font-size: 0.9rem;
+  color: $text-color;
+  margin-left: 1rem;
+  flex: 2;
+  text-align: left;
+}
+
+.journal-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* CV page styles */
+.cv-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.cv-section {
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  border: 1px solid $grey-color-light;
+  border-radius: 5px;
+  background-color: #fafafa;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.cv-section h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: $clemson-orange;
+  border-bottom: 2px solid $clemson-purple;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.cv-entry {
+  margin-bottom: 1rem;
+  padding-left: 1rem;
+  border-left: 3px solid $brand-color;
+}
+
+.cv-entry:last-child {
+  margin-bottom: 0;
+}
+
+.cv-entry-title {
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+
+.cv-entry-details {
+  color: $grey-color-dark;
+  font-size: 0.9rem;
+}

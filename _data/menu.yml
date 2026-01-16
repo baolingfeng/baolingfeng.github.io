@@ -1,9 +1,11 @@
-- title: "Publication"
+- title: "Home"
+  href: "/"
+
+- title: "Publications"
   href: "/publication/"
 
 - title: "Service"
   href: "/service/"
-
 
 - title: "CV"
   href: "/cv/"

@@ -1,12 +1,22 @@
 # Site settings
-title: Lingfeng Bao
+title: Lingfeng Bao, Ph.D.
 email: lingfengbao@zju.edu.cn
-description: ""
+description: "Associate Professor at Zhejiang University"
   
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://baolingfeng.github.io" # the base hostname & protocol for your site
 twitter_username: baolingfeng
 github_username:  baolingfeng
+linkedin_username:  # Add LinkedIn if available
+scholar_username: RMJI97QAAAAJ
+orcid_id: 0000-0003-1846-0921
+
+# Academic settings
+position: "Associate Professor"
+institution: "Zhejiang University"
+department: "College of Computer Science and Technology"
+address: "Zhejiang University, Hangzhou, China"
+research_interests: "Software Engineering, Blockchain"
 
 # Build settings
 markdown: kramdown
