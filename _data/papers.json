@@ -79,8 +79,9 @@
           "title": "LLM4SZZ: Enhancing SZZ Algorithm with Context-Enhanced Assessment on Large Language Models",
           "authors": "Lingxiao Tang, Jiakun Liu, Zhongxin Liu, Xiaohu Yang, <b>Lingfeng Bao</b>",
           "venue": "The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025) ",
-          "status": "Accepted as a Research Full Paper, <b>ACM SIGSOFT Distinguished Paper Award</b>",
-          "pdf": "papers/ISSTA2025_SZZ.pdf"
+          "status": "Accepted as a Research Full Paper",
+          "pdf": "papers/ISSTA2025_SZZ.pdf",
+          "remark": "ACM SIGSOFT Distinguished Paper Award"
       },
       {
           "idx": "C47",
@@ -95,7 +96,8 @@
           "title": "A Comprehensive Study of Bug Characteristics on Foundation Language Models",
           "authors": "Junxiao Han, Guanqi Wang, Jiakun Liu, <b>Lingfeng Bao</b>, Xing Hu, Jinling Wei, Shuiguang Deng",
           "venue": "The 2nd ACM international conference on AI Foundation Models and Software Engineering (FORGE 2025)",
-          "status": "Accepted as a Research Full Paper"
+          "status": "Accepted as a Research Full Paper",
+          "remark":"ACM SIGSOFT Distinguished Paper Award"
       }
     ],
     "2024": [
@@ -182,8 +184,9 @@
             "title": "A Large-Scale Empirical Study of Open Source License Usage: Practices and Challenges",
             "authors": "Jiaqi Wu, <b>Lingfeng Bao</b>, Xiaohu Yang, Xin Xia, Xing Hu",
             "venue": "21th IEEE International Conference on Mining Software Repositories (MSR 2024)",
-            "status": "Accepted as a Research Full Paper, <b>ACM SIGSOFT Distinguished Paper Award</b>, <b>MSR 2024 FOSS Impact Award</b>",
-            "pdf": "papers/MSR2024.pdf"
+            "status": "Accepted as a Research Full Paper",
+            "pdf": "papers/MSR2024.pdf",
+            "remark": "ACM SIGSOFT Distinguished Paper Award, MSR 2024 FOSS Impact Award"
         },
         {
             "idx": "C39",
@@ -233,8 +236,9 @@
             "title": "The Future Can’t Help Fix The Past: Assessing Program Repair In The Wild",
             "authors": "Vinay Kabadi, Dezhen Kong, Siyu Xie, <b>Lingfeng Bao</b>, Gede Artha Azriadi Prana, Tien-Duy B. Le, Bach Le, David Lo",
             "venue": "39th IEEE International Conference on Software Maintenance and Evolution (ICSME 2023)",
-            "status": "Accepted as a Research Full Paper, <b>Distinguished Paper Award</b>",
+            "status": "Accepted as a Research Full Paper",
              "pdf": "papers/ICSME2023.pdf",
+             "remark": "TCSE Distinguished Paper Award"
         },
         {
             "idx": "C33",
@@ -420,8 +424,7 @@
             "authors": "Tien-Duy B. Le, <b>Lingfeng Bao</b>, David Lo, Debin Gao, Li Li",
             "venue": "The 23rd International Conference on Engineering of Complex Computer Systems (ICECCS)",
             "status": "Accepted",
-            "pdf": "papers/ICECCS2018.pdf",
-            "remark": "joint first author"
+            "pdf": "papers/ICECCS2018.pdf"
         },
         {
             "idx": "C17",
@@ -546,12 +549,11 @@
         },
         {
             "idx": "C8",
-            "title": "\"Automated Debugging Considered Harmful\" Considered Harmful -- A User Study Revisiting the Usefulness of Spectra-Based Fault Localization Techniques with Professionals using Real Bugs from Large Systems",
+            "title": "Automated Debugging Considered Harmful Considered Harmful -- A User Study Revisiting the Usefulness of Spectra-Based Fault Localization Techniques with Professionals using Real Bugs from Large Systems",
             "authors": "Xin Xia, <b>Lingfeng Bao</b>, David Lo, Shanping Li",
             "venue": "32nd International Conference on Software Maintenance and Evolution (ICSME)",
             "pdf": "papers/ICSMEmain.pdf",
-            "status": "pp. 267-278",
-            "remark": "Joint First Author"
+            "status": "pp. 267-278"
         },
         {
             "idx": "C7",
