@@ -150,9 +150,9 @@ permalink: /publication/
     <h2 class="year-header">{{ year[0] }}</h2>
     <div class="year-count">({{ year[1].size }} publications)</div>
     
-    <div class="papers-grid">
+    <div class="papers-list">
         {% for paper in year[1] %}
-        <div class="paper-card">
+        <div class="paper-item">
             <div class="paper-header">
                 <div class="paper-id">{{ paper.idx }}</div>
                 <div class="paper-type">

@@ -507,18 +507,18 @@ ul.listing li.listing-item a {
 	}
 }
 
-.papers-grid {
-	display: grid;
-	grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+.papers-list {
+	display: flex;
+	flex-direction: column;
 	gap: 25px;
 	margin-top: 20px;
 }
 
-.paper-card {
+.paper-item {
 	background: white;
 	border: 1px solid $grey-color-light;
 	border-radius: 8px;
-	padding: 20px;
+	padding: 25px;
 	transition: all 0.3s ease;
 	position: relative;
 	
@@ -850,13 +850,12 @@ ul.listing li.listing-item a {
 		}
 	}
 	
-	.papers-grid {
-		grid-template-columns: 1fr;
+	.papers-list {
 		gap: 20px;
 	}
 	
-	.paper-card {
-		padding: 15px;
+	.paper-item {
+		padding: 20px;
 		
 		.paper-title {
 			font-size: 16px;
@@ -873,7 +872,7 @@ ul.listing li.listing-item a {
 }
 
 @include media-query($on-laptop) {
-	.papers-grid {
-		grid-template-columns: repeat(2, 1fr);
+	.papers-list {
+		gap: 20px;
 	}
 }

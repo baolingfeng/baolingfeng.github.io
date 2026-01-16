@@ -12,7 +12,8 @@
           "title": "Lost in Blockchain Address Misuse: Hidden Cross-Platform Risks and Their Security Impact",
           "authors": "Zhenzhe Shao, Jiashuo Zhang, Zihao Li, Daoyuan Wu, and Chong Chen, Yiming Shen, <b>Lingfeng Bao</b>, Yanlin Wang, Jiachi Chen",
           "venue": "The 35th USENIX Security Symposium",
-          "status": "Accepted"
+          "status": "Accepted",
+          "pdf": "papers/sec26cycle1-final911.pdf"
       }, 
       {
           "idx": "C54",
