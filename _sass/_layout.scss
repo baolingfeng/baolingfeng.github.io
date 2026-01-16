@@ -323,6 +323,74 @@ ul.listing li.listing-item a {
 		}
 	}
 	
+	.bcra-promotion {
+		margin-bottom: 40px;
+		background: linear-gradient(135deg, #f0f4f8 0%, #e6f0ff 100%);
+		padding: 30px;
+		border-radius: 10px;
+		border-left: 5px solid $clemson-purple;
+		
+		h2 {
+			font-family: 'Titillium Web', sans-serif;
+			font-size: 24px;
+			color: #002F5F;
+			padding-bottom: 10px;
+			border-bottom: 1px solid $grey-color-light;
+			margin-bottom: 20px;
+		}
+		
+		.link-grid {
+			display: flex;
+			flex-direction: row;
+			gap: 20px;
+			margin-top: 20px;
+			
+			.link-card {
+				display: block;
+				background: #ffffff;
+				padding: 20px;
+				border-radius: 8px;
+				text-decoration: none;
+				color: inherit;
+				border: 1px solid $grey-color-light;
+				transition: all 0.3s ease;
+				flex: 1;
+				
+				&:hover {
+					background: #e9ecef;
+					transform: translateY(-3px);
+					box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+					border-color: $clemson-purple;
+				}
+				
+				h3 {
+					font-family: 'Titillium Web', sans-serif;
+					font-size: 18px;
+					color: #002F5F;
+					margin-bottom: 10px;
+				}
+				
+				p {
+					font-size: 14px;
+					color: $grey-color-dark;
+					line-height: 1.4;
+				}
+				
+				.journal-image {
+					text-align: center;
+					margin-bottom: 15px;
+					
+					img {
+						max-width: 100%;
+						height: auto;
+						border-radius: 4px;
+						border: 1px solid $grey-color-light;
+					}
+				}
+			}
+		}
+	}
+	
 	.link-grid {
 		display: grid;
 		grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
@@ -357,6 +425,42 @@ ul.listing li.listing-item a {
 				font-size: 14px;
 				color: $grey-color-dark;
 				line-height: 1.4;
+			}
+			
+			.journal-image {
+				text-align: center;
+				margin-bottom: 15px;
+				
+				img {
+					max-width: 100%;
+					height: auto;
+					border-radius: 4px;
+					border: 1px solid $grey-color-light;
+				}
+			}
+		}
+		
+		/* Specific style for journal card to make image and text horizontal */
+		.link-card[href="https://www.sciencedirect.com/journal/blockchain-research-and-applications"] {
+			display: flex;
+			flex-direction: row;
+			align-items: center;
+			gap: 15px;
+			min-height: 120px;
+			
+			.journal-image {
+				margin: 0;
+				flex-shrink: 0;
+				
+				img {
+					max-width: 100px;
+					max-height: 100px;
+				}
+			}
+			
+			.journal-content {
+				flex-grow: 1;
+				margin-top: 0;
 			}
 		}
 	}
