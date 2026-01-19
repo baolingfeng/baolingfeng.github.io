@@ -1,6 +1,13 @@
 {
     "2026": [
       {
+            "idx": "J20",
+            "title": "Fortifying the Seams Between C/C++ and Rust: Characterizing Bugs in Interop Tools",
+            "authors": "Xuemeng Cai, Jiakun Liu, Cunyang Liu, Lingfeng Bao, Yijun Yu, Lingxiao Jiang",
+            "venue": "ACM Transactions on Software Engineering and Methodology (TOSEM)",
+            "status": "Accepted"
+      }, 
+      {
           "idx": "J19",
           "title": "Delving into History: Retrieve Less but Augment More on Commit Message Generation",
           "authors": "Peng Lan, Jiakun Liu, Xinyu Zhong, Ning Gui, <b>Lingfeng Bao</b>, David Lo, Zhifang Liao",
