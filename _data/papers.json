@@ -1,6 +1,13 @@
 {
     "2026": [
       {
+            "idx": "J21",
+            "title": "Improving Gas Efficiency in Smart Contracts: Data-Driven Insights and LLM-Assisted Remediation",
+            "authors": "Yijie Ruan, Zhipeng Gao, Jiachi Chen, Lingfeng Bao, Xiaohu Yang",
+            "venue": "Transactions on Software Engineering (TSE)",
+            "status": "Accepted"
+      }, 
+      {
             "idx": "J20",
             "title": "Fortifying the Seams Between C/C++ and Rust: Characterizing Bugs in Interop Tools",
             "authors": "Xuemeng Cai, Jiakun Liu, Cunyang Liu, Lingfeng Bao, Yijun Yu, Lingxiao Jiang",
