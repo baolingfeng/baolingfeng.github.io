@@ -57,7 +57,8 @@
           "title": "ACTaint: Agent-Based Taint Analysis for Access Control Vulnerabilities in Smart Contracts",
           "authors": "Huarui Lin, Zhipeng Gao, Jiachi Chen, Xiang Chen, Xiaohu Yang, <b>Lingfeng Bao</b>",
           "venue": "the 40th ACM/IEEE International Conference on Automated Software Engineering (ASE 2025)",
-          "status": "Accepted as a Research Full Paper"
+          "status": "Accepted as a Research Full Paper",
+          "pdf": "papers/ASE2025ACTaint.pdf"
       },
       {
           "idx": "C52",
