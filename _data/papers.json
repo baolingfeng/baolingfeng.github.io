@@ -65,14 +65,16 @@
           "title": "SolContractEval: A Benchmark for Evaluating Contract-level Solidity Code Generation",
           "authors": "Zhifan Ye, Jiachi Chen, Zhenzhe Shao, <b>Lingfeng Bao</b>, Xiaohu Yang and Zhongxin Liu",
           "venue": "the 40th ACM/IEEE International Conference on Automated Software Engineering (ASE 2025)",
-          "status": "Accepted as a Research Full Paper"
+          "status": "Accepted as a Research Full Paper",
+          "pdf": "papers/ASE2025Sol.pdf"
       },
       {
           "idx": "C51",
           "title": "FGIT: Fault-guided Fine-tuning for Code Generation",
           "authors": "Lishui Fan, Zhongxin Liu, Haoye Wang, <b>Lingfeng Bao</b>, Xin Xia, Shanping Li",
           "venue": "the 40th ACM/IEEE International Conference on Automated Software Engineering (ASE 2025)",
-          "status": "Accepted as a Research Full Paper"
+          "status": "Accepted as a Research Full Paper",
+          "pdf": "papers/ASE2025FGIT.pdf"
       },
       {
           "idx": "C50",
