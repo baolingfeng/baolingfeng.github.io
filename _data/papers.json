@@ -1,6 +1,13 @@
 {
     "2026": [
       {
+            "idx": "J22",
+            "title": "Trace: Securing Smart Contract Repository Against Access Control Vulnerability",
+            "authors": "Chong Chen, <b>Lingfeng Bao</b>, David Lo, Yanlin Wang, Zhenyu Shan, Ting Chen, Guangqiang Yin, Jianxing Yu, Zibin Zheng, Jiachi Chen",
+            "venue": "Transactions on Software Engineering (TSE)",
+            "status": "Accepted"
+      }, 
+      {
             "idx": "J21",
             "title": "Improving Gas Efficiency in Smart Contracts: Data-Driven Insights and LLM-Assisted Remediation",
             "authors": "Yijie Ruan, Zhipeng Gao, Jiachi Chen, <b>Lingfeng Bao</b>, Xiaohu Yang",
