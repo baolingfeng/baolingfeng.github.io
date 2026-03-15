@@ -321,6 +321,22 @@ ul.listing li.listing-item a {
 			line-height: 1.6;
 			margin-bottom: 15px;
 		}
+		
+		.research-cloud {
+			margin: 25px 0;
+			text-align: center;
+			padding: 15px;
+			background: #f8f9fa;
+			border-radius: 8px;
+			border: 1px solid $grey-color-light;
+			
+			img {
+				max-width: 100%;
+				height: auto;
+				border-radius: 4px;
+				box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+			}
+		}
 	}
 	
 	.bcra-promotion {
