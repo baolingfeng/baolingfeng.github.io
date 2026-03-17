@@ -41,7 +41,8 @@
           "title": "Can LLMs Keep Up with Library Changes? An Exploratory Study on LLM-Generated Code",
           "authors": "Xiangrong Lin, Jiakun Liu, <b>Lingfeng Bao</b>",
           "venue": "The 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026)",
-          "status": "Accepted as a Research Full Paper"
+          "status": "Accepted as a Research Full Paper",
+          "pdf": "papers/SANER2026.pdf"
       },
       {
           "idx": "J18",
