@@ -1,13 +1,20 @@
 {
     "2026": [
       {
+            "idx": "C57",
+            "title": "ExecVerify: White-box RL With Verifiable Stepwise Rewards for Code Execution Reasoning",
+            "authors": "Lingxiao Tang, He Ye, Zhaoyang Chu, Muyang Ye, Zhongxin Liu, Xiaoxue Ren, <b>Lingfeng Bao</b>",
+            "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics - Main Conference (ACL 2026)",
+            "status": "Accepted"
+      }, 
+      {
             "idx": "C56",
             "title": "Adaptive Mutation Scheduling with Deep Reinforcement Learning for Smart Contract Fuzzing",
-            "authors": "Qianqian Pang, Xin Yin, Tingting Bi, <b>Lingfeng Bao</b>, Chao Ni*, Xiaohu Yang",
+            "authors": "Qianqian Pang, Xin Yin, Tingting Bi, <b>Lingfeng Bao</b>, Chao Ni, Xiaohu Yang",
             "venue": "ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE 2026)",
             "status": "Accepted"
       }, 
-    {
+      {
             "idx": "J22",
             "title": "Trace: Securing Smart Contract Repository Against Access Control Vulnerability",
             "authors": "Chong Chen, <b>Lingfeng Bao</b>, David Lo, Yanlin Wang, Zhenyu Shan, Ting Chen, Guangqiang Yin, Jianxing Yu, Zibin Zheng, Jiachi Chen",
