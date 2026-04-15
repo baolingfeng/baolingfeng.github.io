@@ -5,15 +5,15 @@
             "title": "ExecVerify: White-box RL With Verifiable Stepwise Rewards for Code Execution Reasoning",
             "authors": "Lingxiao Tang, He Ye, Zhaoyang Chu, Muyang Ye, Zhongxin Liu, Xiaoxue Ren, <b>Lingfeng Bao</b>",
             "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics - Main Conference (ACL 2026)",
-            "status": "Accepted"
+            "status": "Accepted",
+            "pdf": "papers/ACL26.pdf"
       }, 
       {
             "idx": "C56",
             "title": "Adaptive Mutation Scheduling with Deep Reinforcement Learning for Smart Contract Fuzzing",
             "authors": "Qianqian Pang, Xin Yin, Tingting Bi, <b>Lingfeng Bao</b>, Chao Ni, Xiaohu Yang",
             "venue": "ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE 2026)",
-            "status": "Accepted",
-            "pdf": "papers/ACL26.pdf"
+            "status": "Accepted"
       }, 
       {
             "idx": "J22",
