@@ -12,7 +12,8 @@
             "title": "Adaptive Mutation Scheduling with Deep Reinforcement Learning for Smart Contract Fuzzing",
             "authors": "Qianqian Pang, Xin Yin, Tingting Bi, <b>Lingfeng Bao</b>, Chao Ni, Xiaohu Yang",
             "venue": "ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE 2026)",
-            "status": "Accepted"
+            "status": "Accepted",
+            "pdf": "papers/ACL26.pdf"
       }, 
       {
             "idx": "J22",
