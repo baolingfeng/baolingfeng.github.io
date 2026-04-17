@@ -1,6 +1,20 @@
 {
     "2026": [
       {
+            "idx": "C59",
+            "title": "Cracking Query Bottlenecks: Towards Efficiency-Oriented Text-to-SQL Generation",
+            "authors": "Li Lin, Yunfeng Shen, <b>Lingfeng Bao</b>, Rongxin Wu, Yang Liu",
+            "venue": "the 35th SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026)",
+            "status": "Accepted"
+      }, 
+      {
+            "idx": "C58",
+            "title": "SmartDecompiler-R1: Enhancing Faithful and Explainable Smart Contract Bytecode Decompilation with Reinforcement Learning",
+            "authors": "Yilun Ma, Lingxiao Tang, Li Lin, Zhipeng Gao, Jiachi Chen, Xin Xia, <b>Lingfeng Bao</b>",
+            "venue": "the 35th SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026)",
+            "status": "Accepted"
+      }, 
+      {
             "idx": "C57",
             "title": "ExecVerify: White-box RL With Verifiable Stepwise Rewards for Code Execution Reasoning",
             "authors": "Lingxiao Tang, He Ye, Zhaoyang Chu, Muyang Ye, Zhongxin Liu, Xiaoxue Ren, <b>Lingfeng Bao</b>",
