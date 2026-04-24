@@ -1,6 +1,13 @@
 {
     "2026": [
       {
+            "idx": "J23",
+            "title": "GUIGroup: Enabling Functional Layout Grouping with Multimodal Large Language Models",
+            "authors": "Yulei Zhang, Yifang Yang, Zejun Zhang, Xiaoqian Li, Kui Liu, Zhenchang Xing, Xin Xia, <b>Lingfeng Bao</b>",
+            "venue": "IEEE Transactions on Software Engineering (TSE)",
+            "status": "Accepted"
+      }, 
+      {
             "idx": "C59",
             "title": "Cracking Query Bottlenecks: Towards Efficiency-Oriented Text-to-SQL Generation",
             "authors": "Li Lin, Yunfeng Shen, <b>Lingfeng Bao</b>, Rongxin Wu, Yang Liu",
