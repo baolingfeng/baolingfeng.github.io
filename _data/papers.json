@@ -99,7 +99,8 @@
           "title": "Enhancing Domain-Specific Code Completion via Collaborative Inference with Large and Small Language Models",
           "authors": "Jingrong Yu, Zhipeng Gao, <b>Lingfeng Bao</b>, Zhongxin Liu",
           "venue": "ACM Transactions on Software Engineering and Methodology (TOSEM)",
-          "status": "Accepted"
+          "status": "Accepted",
+          "pdf": "papers/TOSEM_CodeCompletion.pdf"
       },
       {
           "idx": "C53",
