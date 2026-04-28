@@ -212,7 +212,8 @@
           "title": "Instructive Code Retriever: Learn From Large Language Model’s Feedback for Code Intelligence Tasks",
           "authors": "Jiawei Lu, Haoye Wang, Zhongxin Liu, Keyu Liang, <b>Lingfeng Bao</b>, Xiaohu Yang",
           "venue": "39th ACM/IEEE International Conference on Automated Software Engineering (ASE 2024)",
-          "status": "Accepted as a Research Full Paper"
+          "status": "Accepted as a Research Full Paper",
+          "pdf": "papers/ASE2024_ICR.pdf"
         },
         {
             "idx": "C42",
