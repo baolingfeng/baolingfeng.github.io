@@ -1,6 +1,20 @@
 {
     "2026": [
       {
+            "idx": "J25",
+            "title": "Evaluating Incompatible Third-party Library API Usage in LLM-based Code Completion",
+            "authors": "Li Lin, Yaorui Fei, Yunfeng Shen, Lingfeng Bao, ZhongxinLiu, David Lo",
+            "venue": "ACM Transactions on Software Engineering and Methodology (TOSEM) ",
+            "status": "Accepted"
+      }, 
+      {
+            "idx": "C60",
+            "title": "SEER: Self-Enhancing Chain-of-Thought Compression for Reasoning Models",
+            "authors": "Kerui Huang, Shuhan Liu, Xing Hu, Tongtong Xu, Lingfeng Bao, Xin Xia",
+            "venue": "the 35th SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026)",
+            "status": "Accepted"
+      }, 
+      {
             "idx": "J24",
             "title": "Code Refinement With Repository Context: How Far Are We?",
             "authors": "Ke Wang, Peng Lan, Jiakun Liu, Shengbing Ren, <b>Lingfeng Bao</b>, Junxiao Han, David Lo, Zhifang Liao",
@@ -41,7 +55,8 @@
             "title": "Adaptive Mutation Scheduling with Deep Reinforcement Learning for Smart Contract Fuzzing",
             "authors": "Qianqian Pang, Xin Yin, Tingting Bi, <b>Lingfeng Bao</b>, Chao Ni, Xiaohu Yang",
             "venue": "ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE 2026)",
-            "status": "Accepted"
+            "status": "Accepted",
+            "pdf": "papers/FSE2026.pdf"
       }, 
       {
             "idx": "J22",
