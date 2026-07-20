@@ -5,7 +5,8 @@
             "title": "Evaluating Incompatible Third-party Library API Usage in LLM-based Code Completion",
             "authors": "Li Lin, Yaorui Fei, Yunfeng Shen, Lingfeng Bao, ZhongxinLiu, David Lo",
             "venue": "ACM Transactions on Software Engineering and Methodology (TOSEM) ",
-            "status": "Accepted"
+            "status": "Accepted",
+            "pdf": "papers/TOSEM2026.pdf"
       }, 
       {
             "idx": "C60",
@@ -26,21 +27,24 @@
             "title": "GUIGroup: Enabling Functional Layout Grouping with Multimodal Large Language Models",
             "authors": "Yulei Zhang, Yifang Yang, Zejun Zhang, Xiaoqian Li, Kui Liu, Zhenchang Xing, Xin Xia, <b>Lingfeng Bao</b>",
             "venue": "IEEE Transactions on Software Engineering (TSE)",
-            "status": "Accepted"
+            "status": "Accepted",
+            "pdf": "papers/TSE_GUIGroup.pdf"
       }, 
       {
             "idx": "C59",
             "title": "Cracking Query Bottlenecks: Towards Efficiency-Oriented Text-to-SQL Generation",
             "authors": "Li Lin, Yunfeng Shen, <b>Lingfeng Bao</b>, Rongxin Wu, Yang Liu",
             "venue": "the 35th SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026)",
-            "status": "Accepted"
+            "status": "Accepted",
+            "pdf": "papers/ISSTA2026-Text2SQL.pdf"
       }, 
       {
             "idx": "C58",
             "title": "SmartDecompiler-R1: Enhancing Faithful and Explainable Smart Contract Bytecode Decompilation with Reinforcement Learning",
             "authors": "Yilun Ma, Lingxiao Tang, Li Lin, Zhipeng Gao, Jiachi Chen, Xin Xia, <b>Lingfeng Bao</b>",
             "venue": "the 35th SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026)",
-            "status": "Accepted"
+            "status": "Accepted",
+            "pdf": "papers/ISSTA2026-SmartDecompiler.pdf"
       }, 
       {
             "idx": "C57",
