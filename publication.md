@@ -21,7 +21,22 @@ permalink: /publication/
     <ul class="pub-list">
         {% for paper in year[1] %}
         <li class="pub-item">
-            <div class="pub-title">{{ paper.title }}</div>
+            <div class="pub-title">
+              <span class="pub-id">{{ paper.idx }}</span>
+              {% if paper.venue contains 'Transactions' or paper.venue contains 'Journal' or paper.venue contains 'Science' %}
+                <span class="pub-type-tag tag-journal">Journal</span>
+              {% elsif paper.venue contains 'Demonstration' or paper.venue contains 'Demo' %}
+                <span class="pub-type-tag tag-demo">Demo</span>
+              {% elsif paper.venue contains 'Workshop' %}
+                <span class="pub-type-tag tag-workshop">Workshop</span>
+              {% else %}
+                <span class="pub-type-tag tag-conference">Conference</span>
+              {% endif %}
+              {% if paper.remark contains 'Distinguished' or paper.remark contains 'Best' %}
+                <span class="pub-type-tag tag-award">Award</span>
+              {% endif %}
+              {{ paper.title }}
+            </div>
             <div class="pub-authors">{{ paper.authors }}</div>
             <div class="pub-venue">
                 <em>{{ paper.venue }}</em>
