@@ -22,7 +22,7 @@ permalink: /publication/
         {% for paper in year[1] %}
         <li class="pub-item">
             <div class="pub-title">
-              <span class="pub-id">{{ paper.idx }}</span>
+              <span class="pub-id">[{{ paper.idx }}]</span>
               {% if paper.venue contains 'Transactions' or paper.venue contains 'Journal' or paper.venue contains 'Science' %}
                 <span class="pub-type-tag tag-journal">Journal</span>
               {% elsif paper.venue contains 'Demonstration' or paper.venue contains 'Demo' %}
