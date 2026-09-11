@@ -1,9 +1,23 @@
 {
     "2026": [
       {
+            "idx": "C61",
+            "title": "State-Induced Approximate Metamorphic Testing for Detecting Logical Bugs in DBMSs",
+            "authors": "Li Lin, Yaorui Fei, <b>Lingfeng Bao</b>, Rongxin Wu, Dongxiang Zhang",
+            "venue": "43rd IEEE International Conference on Data Engineering (ICDE)",
+            "status": "Accepted"
+      }, 
+      {
+            "idx": "J26",
+            "title": "Effective Fuzzing-based Prototype Pollution Detection via Forced Execution and Template Synthesis",
+            "authors": "Dezhen Kong, Peisen Yao, Jiakun Liu, <b>Lingfeng Bao</b>",
+            "venue": "ACM Transactions on Software Engineering and Methodology (TOSEM)",
+            "status": "Accepted"
+      }, 
+      {
             "idx": "J25",
             "title": "Evaluating Incompatible Third-party Library API Usage in LLM-based Code Completion",
-            "authors": "Li Lin, Yaorui Fei, Yunfeng Shen, Lingfeng Bao, ZhongxinLiu, David Lo",
+            "authors": "Li Lin, Yaorui Fei, Yunfeng Shen, <b>Lingfeng Bao</b>, ZhongxinLiu, David Lo",
             "venue": "ACM Transactions on Software Engineering and Methodology (TOSEM) ",
             "status": "Accepted",
             "pdf": "papers/TOSEM2026.pdf"
@@ -11,7 +25,7 @@
       {
             "idx": "C60",
             "title": "SEER: Self-Enhancing Chain-of-Thought Compression for Reasoning Models",
-            "authors": "Kerui Huang, Shuhan Liu, Xing Hu, Tongtong Xu, Lingfeng Bao, Xin Xia",
+            "authors": "Kerui Huang, Shuhan Liu, Xing Hu, Tongtong Xu, <b>Lingfeng Bao</b>, Xin Xia",
             "venue": "the 35th SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026)",
             "status": "Accepted"
       }, 
