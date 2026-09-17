@@ -1,6 +1,13 @@
 {
     "2026": [
       {
+            "idx": "C62",
+            "title": "MIEX: A Scalable and High-Performance Execution Framework for Blockchain Systems under Mixed Workloads",
+            "authors": "Haibo Tang, Enping Wu, Cunyang Liu, Yunbo Yang, Hao Duan, Xin Xia, <b>Lingfeng Bao</b>",
+            "venue": "53rd International Conference on Very Large Data Bases (VLDB)",
+            "status": "Accepted"
+      }, 
+      {
             "idx": "C61",
             "title": "State-Induced Approximate Metamorphic Testing for Detecting Logical Bugs in DBMSs",
             "authors": "Li Lin, Yaorui Fei, <b>Lingfeng Bao</b>, Rongxin Wu, Dongxiang Zhang",
